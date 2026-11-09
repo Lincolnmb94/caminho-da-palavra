@@ -1,4 +1,5 @@
 # 🧠 Caminho da Palavra - Quiz Interativo com IA
+# 🚧 Status: Em desenvolvimento (Refatorando a integração com os endpoints da API do Gemini).
 
 Uma aplicação web interativa de perguntas e respostas (quiz) desenvolvida para testar conhecimentos de forma dinâmica. O grande diferencial deste projeto é a integração com a **API do Google Gemini**, que gera perguntas exclusivas e dinâmicas, fugindo de bancos de dados estáticos tradicionais.
 
